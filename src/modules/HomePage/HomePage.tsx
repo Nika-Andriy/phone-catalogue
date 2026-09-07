@@ -11,19 +11,19 @@ const slides = [
     image: getPublicPath('/img/banner-phones.jpg'),
     title: 'Now available in our store!',
     text: 'Be the first!',
-    link: '/phones',
+    link: '/phone-catalogue/#/phones',
   },
   {
     image: getPublicPath('/img/banner-tablets.png'),
     title: 'Tablets for work and play',
     text: 'Choose your perfect device',
-    link: '/tablets',
+    link: '/phone-catalogue/#/tablets',
   },
   {
     image: getPublicPath('/img/banner-accessories.jpg'),
     title: 'Accessories for every day',
     text: 'Complete your setup',
-    link: '/accessories',
+    link: '/phone-catalogue/#/accessories',
   },
 ];
 
